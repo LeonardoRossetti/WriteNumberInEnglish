@@ -1,0 +1,11 @@
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\bin\Debug\netcoreapp2.0\TestUnleashed.deps.json
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\bin\Debug\netcoreapp2.0\TestUnleashed.runtimeconfig.json
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\bin\Debug\netcoreapp2.0\TestUnleashed.runtimeconfig.dev.json
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\bin\Debug\netcoreapp2.0\TestUnleashed.dll
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\bin\Debug\netcoreapp2.0\TestUnleashed.pdb
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\obj\Debug\netcoreapp2.0\TestUnleashed.csprojAssemblyReference.cache
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\obj\Debug\netcoreapp2.0\TestUnleashed.csproj.CoreCompileInputs.cache
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\obj\Debug\netcoreapp2.0\TestUnleashed.AssemblyInfoInputs.cache
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\obj\Debug\netcoreapp2.0\TestUnleashed.AssemblyInfo.cs
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\obj\Debug\netcoreapp2.0\TestUnleashed.dll
+c:\users\e6530\source\repos\TestUnleashed\TestUnleashed\obj\Debug\netcoreapp2.0\TestUnleashed.pdb

@@ -1,0 +1,35 @@
+﻿@model TestUnleashed.Models.ValueConversor
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h4>Write a web application, including unit tests, using ASP.NET and C# to convert a number to an English word currency representation.</h4>
+    </div>
+</div>
+
+<div class="row">
+    <form asp-controller="Home" asp-action="ConvertNumberToEnglishWord" method="post">
+        <div class="form-group">
+            <div class="col-12">
+                <label>Inform a numeric value between 0 and 1000000000000000:</label>
+            </div>
+            <div class="col-lg-10 col-md-8 col-xs-12">
+                <input id="valueToConvert" class="form-control" asp-for="Value" type="text" />
+            </div>
+            <div class="col-lg-2 col-md-4 col-xs-12">
+                <button type="submit" class="btn btn-primary">Convert</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+@if (!string.IsNullOrEmpty(Model.WordValue))
+{
+    <div class="row">       
+        <label>Result:</label>
+        <br />
+        <div class="col-12">@Model.WordValue</div>      
+    </div>
+}
